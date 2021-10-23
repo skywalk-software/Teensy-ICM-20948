@@ -42,7 +42,6 @@
 #include "Icm20948AuxCompassAkm.h"
 #include "Icm20948SelfTest.h"
 
-
 #include <stdint.h>
 #include <assert.h>
 #include <string.h>

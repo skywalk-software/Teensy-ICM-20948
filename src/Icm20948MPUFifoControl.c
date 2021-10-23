@@ -16,6 +16,8 @@
 #include "Icm20948Defs.h"
 #include "Icm20948DataBaseControl.h"
 #include "Icm20948DataConverter.h"
+#include "Icm20948MinMaxDefs.h" // including C min+max definition
+
 
 #include "Icm20948AuxCompassAkm.h"
 
