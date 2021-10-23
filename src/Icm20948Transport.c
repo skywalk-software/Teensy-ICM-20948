@@ -24,6 +24,7 @@
 #include "Icm20948Transport.h"
 #include "Icm20948Serif.h"
 #include "Icm20948.h"
+#include "Icm20948MinMaxDefs.h" // including C min+max definition
 
 struct inv_icm20948 * icm20948_instance;
 

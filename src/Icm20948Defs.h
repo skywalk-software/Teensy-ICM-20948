@@ -495,14 +495,6 @@ enum SENSOR_ACCURACY {
 	SENSOR_ACCURACY_NUM_MAX,
 };
 
-#ifndef min
-#define min(x,y)    (((x)<(y))?(x):(y))
-#endif
-
-#ifndef max
-#define max(x,y)    (((x)>(y))?(x):(y))
-#endif
-
 #ifdef __cplusplus
 }
 #endif
