@@ -380,8 +380,8 @@ extern "C" {
     
 #define BIT(x) ( 1 << x )              
 
-#define ENABLE  1
-#define DISABLE 0
+//#define ENABLE  1
+//#define DISABLE 0
     
 // interrupt configurations related to HW register
 #define FSYNC_INT   BIT(7)
